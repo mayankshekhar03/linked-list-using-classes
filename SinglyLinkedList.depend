@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1491239583 source:f:\mycppprojects\singlylinkedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1490858536 f:\mycppprojects\singlylinkedlist\linkedlist.h
+	<iostream>
+	<string>
+
+1491239359 source:f:\mycppprojects\singlylinkedlist\linkedlist.cpp
+	"LinkedList.h"
+
